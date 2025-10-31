@@ -1,0 +1,37 @@
+# Frontend
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/.env*.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Backend
+backend/bin
+backend/obj
+backend/node_modules
+backend/Tests
+backend/appsettings.Development.json
+
+# Root
+.vs
+.vscode
+.git
+node_modules
+*.cmd
+*.ps1
+
+# IDE
+*.user
+*.suo
+
+# Build outputs
+bin/
+obj/
+
+# Local data
+db/
+*.db
+*.db-shm
+*.db-wal
